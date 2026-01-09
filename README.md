@@ -81,6 +81,11 @@ Our high-level roadmap is as follows:
     -   [ ] Marketing automation workflows.
     -   [ ] Advanced AI-driven insights and reporting.
 
+### ✨ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/open-pay&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/open-pay&type=date&legend=top-left)
+
+
 ## ❤️ Contributing
 
 Open-Pay is an ambitious project, and we welcome contributors of all levels and skills. Whether you're a developer, designer, or just passionate about our mission, there are many ways to get involved:
