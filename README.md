@@ -93,7 +93,9 @@ Open-Pay is an ambitious project, and we welcome contributors of all levels and 
 -   **Code:** Help us build the platform by tackling issues and contributing to new features. Check out our `good first issue` and `help wanted` tags.
 -   **Ideas & Feedback:** Join our community discussions to share your ideas and help shape the future of the project.
 -   **Documentation:** Help us improve our documentation to make it easier for everyone to use and contribute to Open-Pay.
+-   **Join our [Discord server](https://discord.com/invite/jc4xtF58Ve)** to chat with the team and other contributors.
 
+  
 Please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for details on our code of conduct and the process for submitting pull requests.
 
 ## 🏷️ Topics
